@@ -1,0 +1,23 @@
+{
+  "name": "home-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "serve": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akhukh1/home-modules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akhukh1/home-modules/issues"
+  },
+  "homepage": "https://github.com/Akhukh1/home-modules#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
